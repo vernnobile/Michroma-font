@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="2207"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="1233" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="1536" type="line"/>
+      <point x="1233" y="1536" type="line"/>
+      <point x="1233" y="1370" type="line"/>
+      <point x="388" y="1370" type="line"/>
+      <point x="388" y="166" type="line"/>
+      <point x="1233" y="166" type="line"/>
+    </contour>
+    <contour>
+      <point x="1936" y="1536"/>
+      <point x="2079" y="1435"/>
+      <point x="2079" y="788" type="curve"/>
+      <point x="2079" y="748" type="line"/>
+      <point x="1887" y="788" type="line"/>
+      <point x="1887" y="1342"/>
+      <point x="1813" y="1370"/>
+      <point x="1336" y="1370" type="curve"/>
+      <point x="1042" y="1370" type="line"/>
+      <point x="1042" y="1536" type="line"/>
+      <point x="1336" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1042" y="0" type="line"/>
+      <point x="1042" y="166" type="line"/>
+      <point x="1336" y="166" type="line"/>
+      <point x="1813" y="166"/>
+      <point x="1887" y="214"/>
+      <point x="1887" y="748" type="curve"/>
+      <point x="1887" y="788" type="line"/>
+      <point x="2079" y="748" type="line"/>
+      <point x="2079" y="121"/>
+      <point x="1936" y="0"/>
+      <point x="1336" y="0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

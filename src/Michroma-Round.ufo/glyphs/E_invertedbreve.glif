@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Einvertedbreve" format="1">
+  <advance width="1792"/>
+  <unicode hex="0206"/>
+  <outline>
+    <contour>
+      <point x="896" y="2010" type="curve" smooth="yes"/>
+      <point x="1109.75" y="2010"/>
+      <point x="1244.58" y="1945"/>
+      <point x="1273.94" y="1768.73" type="curve" smooth="yes"/>
+      <point x="1280.88" y="1727.06"/>
+      <point x="1249.48" y="1690"/>
+      <point x="1208.05" y="1690" type="curve"/>
+      <point x="1210.69" y="1690" type="line"/>
+      <point x="1153.1" y="1690"/>
+      <point x="1125.04" y="1712.45"/>
+      <point x="1112.39" y="1768.63" type="curve" smooth="yes"/>
+      <point x="1102.8" y="1811.22"/>
+      <point x="1084.09" y="1841.01"/>
+      <point x="1056" y="1858" type="curve" smooth="yes"/>
+      <point x="1029" y="1874"/>
+      <point x="976" y="1882"/>
+      <point x="896" y="1882" type="curve" smooth="yes"/>
+      <point x="816" y="1882"/>
+      <point x="764" y="1875"/>
+      <point x="741" y="1861" type="curve" smooth="yes"/>
+      <point x="710.857" y="1842.65"/>
+      <point x="690.591" y="1811.85"/>
+      <point x="680.2" y="1768.6" type="curve" smooth="yes"/>
+      <point x="666.443" y="1711.34"/>
+      <point x="639.37" y="1690"/>
+      <point x="582.316" y="1690" type="curve"/>
+      <point x="584.738" y="1690" type="line"/>
+      <point x="542.908" y="1690"/>
+      <point x="511.186" y="1727.49"/>
+      <point x="518.109" y="1768.74" type="curve" smooth="yes"/>
+      <point x="547.569" y="1944.3"/>
+      <point x="682.366" y="2010"/>
+    </contour>
+    <component base="E" xOffset="-63"/>
+  </outline>
+</glyph>

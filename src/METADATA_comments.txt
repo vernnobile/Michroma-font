@@ -1,0 +1,6 @@
+# COMMENTS
+# cd ~/src/font-optimizer;
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Michroma" \
+#   ~/googlefontdirectory/michroma/Michroma.{ttf,menu};

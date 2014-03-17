@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="1664"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="668.908" y="1442.36" type="line" smooth="yes"/>
+      <point x="691.328" y="1502.19"/>
+      <point x="740.11" y="1536"/>
+      <point x="804" y="1536" type="curve" smooth="yes"/>
+      <point x="860" y="1536" type="line" smooth="yes"/>
+      <point x="923.89" y="1536"/>
+      <point x="972.672" y="1502.19"/>
+      <point x="995.092" y="1442.36" type="curve" smooth="yes"/>
+      <point x="1500.91" y="92.6404" type="line" smooth="yes"/>
+      <point x="1519.92" y="41.9069"/>
+      <point x="1490.18" y="-1"/>
+      <point x="1436" y="-1" type="curve" smooth="yes"/>
+      <point x="228" y="-1" type="line" smooth="yes"/>
+      <point x="173.821" y="-1"/>
+      <point x="144.08" y="41.9069"/>
+      <point x="163.092" y="92.6404" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="840.103" y="1385.41" type="line" smooth="yes"/>
+      <point x="836.775" y="1394.69"/>
+      <point x="827.225" y="1394.69"/>
+      <point x="823.897" y="1385.41" type="curve" smooth="yes"/>
+      <point x="392.103" y="181.591" type="line" smooth="yes"/>
+      <point x="387.718" y="169.366"/>
+      <point x="395.013" y="159"/>
+      <point x="408" y="159" type="curve" smooth="yes"/>
+      <point x="1256" y="159" type="line" smooth="yes"/>
+      <point x="1268.99" y="159"/>
+      <point x="1276.28" y="169.366"/>
+      <point x="1271.9" y="181.591" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

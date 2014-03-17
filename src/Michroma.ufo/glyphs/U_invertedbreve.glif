@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uinvertedbreve" format="1">
+  <advance width="2113"/>
+  <unicode hex="0216"/>
+  <outline>
+    <contour>
+      <point x="673" y="1690" type="line"/>
+      <point x="673" y="1925"/>
+      <point x="814" y="2010"/>
+      <point x="1057" y="2010" type="curve" smooth="yes"/>
+      <point x="1300" y="2010"/>
+      <point x="1441" y="1926"/>
+      <point x="1441" y="1690" type="curve"/>
+      <point x="1281" y="1690" type="line"/>
+      <point x="1281" y="1776"/>
+      <point x="1260" y="1832"/>
+      <point x="1217" y="1858" type="curve" smooth="yes"/>
+      <point x="1190" y="1874"/>
+      <point x="1137" y="1882"/>
+      <point x="1057" y="1882" type="curve" smooth="yes"/>
+      <point x="977" y="1882"/>
+      <point x="925" y="1875"/>
+      <point x="902" y="1861" type="curve" smooth="yes"/>
+      <point x="856" y="1833"/>
+      <point x="833" y="1776"/>
+      <point x="833" y="1690" type="curve"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+</glyph>

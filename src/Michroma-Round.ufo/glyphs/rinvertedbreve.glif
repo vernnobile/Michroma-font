@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rinvertedbreve" format="1">
+  <advance width="1408"/>
+  <unicode hex="0213"/>
+  <outline>
+    <contour>
+      <point x="704" y="1562" type="curve" smooth="yes"/>
+      <point x="917.752" y="1562"/>
+      <point x="1052.58" y="1497"/>
+      <point x="1081.94" y="1320.73" type="curve" smooth="yes"/>
+      <point x="1088.88" y="1279.06"/>
+      <point x="1057.48" y="1242"/>
+      <point x="1016.05" y="1242" type="curve"/>
+      <point x="1018.69" y="1242" type="line"/>
+      <point x="961.102" y="1242"/>
+      <point x="933.036" y="1264.45"/>
+      <point x="920.387" y="1320.63" type="curve" smooth="yes"/>
+      <point x="910.795" y="1363.22"/>
+      <point x="892.093" y="1393.01"/>
+      <point x="864" y="1410" type="curve" smooth="yes"/>
+      <point x="837" y="1426"/>
+      <point x="784" y="1434"/>
+      <point x="704" y="1434" type="curve" smooth="yes"/>
+      <point x="624" y="1434"/>
+      <point x="572" y="1427"/>
+      <point x="549" y="1413" type="curve" smooth="yes"/>
+      <point x="518.857" y="1394.65"/>
+      <point x="498.591" y="1363.85"/>
+      <point x="488.2" y="1320.6" type="curve" smooth="yes"/>
+      <point x="474.443" y="1263.34"/>
+      <point x="447.371" y="1242"/>
+      <point x="390.316" y="1242" type="curve"/>
+      <point x="392.738" y="1242" type="line"/>
+      <point x="350.908" y="1242"/>
+      <point x="319.186" y="1279.49"/>
+      <point x="326.109" y="1320.74" type="curve" smooth="yes"/>
+      <point x="355.569" y="1496.3"/>
+      <point x="490.366" y="1562"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+</glyph>
