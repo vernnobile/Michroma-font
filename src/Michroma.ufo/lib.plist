@@ -179,6 +179,7 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>R.alt</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
@@ -351,6 +352,7 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>a.alt</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
